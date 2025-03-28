@@ -1,4 +1,4 @@
-# ![Banner](https://img.asmedia.epimg.net/resizer/v2/746JX2WKTRAWPL3TRALELUQTEA.jpg?auth=33c9e2b288b19ada227f6c4ad24ff84db32dc26a8c6d2b048c98a49f2a218dd5&width=644&height=362&smart=true)
+# ![Banner](https://cdn.vectorstock.com/i/500p/42/94/blue-abstract-background-modern-gradient-vector-50754294.jpg)
 
 # 🚀 Frontend Developer
 
